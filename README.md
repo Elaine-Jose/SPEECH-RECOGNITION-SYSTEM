@@ -48,3 +48,7 @@ The recognized text is appended to output.txt, thus recording all spoken inputs 
 Exit Command:
 
 The process will continue until the user says, "stop recording," which terminates the program safely.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/576cc83b-c220-4da6-89aa-8a524687b81a)
